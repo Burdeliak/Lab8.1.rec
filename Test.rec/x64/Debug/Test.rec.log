@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  Test.rec.cpp
+C:\Users\Олександр\source\repos\Lab8.1.re\Lab8.1.re\lab8.1.cpp(23,13): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/Test.rec.cpp')
+  
+C:\Users\Олександр\source\repos\Lab8.1.re\Test.rec\Test.rec.cpp(16,17): error C2660: 'Count': function does not take 1 arguments
+  (compiling source file '/Test.rec.cpp')
+      C:\Users\Олександр\source\repos\Lab8.1.re\Lab8.1.re\lab8.1.cpp(7,5):
+      see declaration of 'Count'
+      C:\Users\Олександр\source\repos\Lab8.1.re\Test.rec\Test.rec.cpp(16,17):
+      while trying to match the argument list '(std::string)'
+  
+C:\Users\Олександр\source\repos\Lab8.1.re\Test.rec\Test.rec.cpp(18,3): error C2143: syntax error: missing ';' before '}'
+  (compiling source file '/Test.rec.cpp')
+  
